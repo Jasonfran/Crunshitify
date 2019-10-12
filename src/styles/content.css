@@ -1,0 +1,27 @@
+.crunshitify_template-container {
+    width: auto !important;
+    margin: 0 20px !important;
+}
+
+.crunshitify_video-container {
+    width: auto !important;
+    height: 95vh !important;
+    margin: 0 -25px 0 -25px !important;
+}
+
+.crunshitify_menu-container {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    display: none;
+}
+
+.crunshitify_menu-container--show {
+    display: block;
+}
+
+.crunshitify_menu {
+    width: 300px;
+    background: #00000080;
+    margin: 0 auto;
+}
