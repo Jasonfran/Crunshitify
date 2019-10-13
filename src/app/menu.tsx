@@ -12,7 +12,7 @@ export class Menu extends React.Component {
 
     render() {
         return (
-            <div className="crunshitify-menu">
+            <div className="crunshitify_menu">
                 <button onClick={this.props.theatreMode}>Theater mode</button>
             </div>
         )
