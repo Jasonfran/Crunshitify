@@ -6,6 +6,10 @@ Look no further!
 
 Crunshitify is here to unshitify crunchyroll. Adds a fancy button which will blow up the video to fit your browser! No more full screen or tiny screen. Resize your browser to the perfect size for your viewing pleasure.
 
+## Install
+
+Get release "dist.crx" from Github
+
 ## Get started
 
 Clone this repository, and then, in this directory:
